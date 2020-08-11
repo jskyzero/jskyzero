@@ -1,19 +1,13 @@
-### Hi there 👋
+### 请多指教 / よろしくお願いします 👋
 
-<!--
-**jskyzero/jskyzero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> ✨otaku.change(world);✨
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
++ 🌆 jskyzero, call me sky or jsky 
++ 🎮 level game designer in [@Tencent](https://github.com/Tencent)
++ 🖥 program for fun and efficiency
++ 🛠 learn for game develop & computer science
++ 👻 visit my [「設計者筆記」](https://design.jskyzero.com/) about game design
 
 [![jskyzero's github stats](https://github-readme-stats.vercel.app/api?username=jskyzero&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
