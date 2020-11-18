@@ -10,7 +10,11 @@
 + 👻 visit my blog [「設計者筆記」](https://design.jskyzero.com/) about game design
 
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jskyzero&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <a href="https://www.exophase.com/user/jskyzero/"><img src="https://card.exophase.com/2/0/70821.png?1605682929"></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jskyzero&layout=compact)](https://github.com/anuraghazra/github-readme-stats)[![jskyzero's github stats](https://github-readme-stats.vercel.app/api?username=jskyzero&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![jskyzero's github stats](https://github-readme-stats.vercel.app/api?username=jskyzero&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)-->
 
