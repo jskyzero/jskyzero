@@ -11,7 +11,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jskyzero&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jskyzero&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <a href="https://www.exophase.com/user/jskyzero/"><img src="https://card.exophase.com/2/0/70821.png?1605682929"></a>
