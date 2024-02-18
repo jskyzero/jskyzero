@@ -4,7 +4,7 @@
 
 
 + 🌆 jskyzero, call me `sky` or `jsky` 
-+ 🎮 level game designer in [Tencent](https://github.com/Tencent)
++ 🎮 action game designer in [Tencent](https://github.com/Tencent)
 + 🖥 program for `fun` and `efficiency`
 + 🛠 learn for [game develop & computer science](https://blog.jskyzero.com/)
 + 👻 visit my blog [「設計者筆記」](https://design.jskyzero.com/) about game design
