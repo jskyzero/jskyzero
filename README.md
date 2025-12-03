@@ -12,7 +12,7 @@
 
 <!--https://github.com/anuraghazra/github-readme-stats-->
 
-[![Top Langs](https://github-readme-stats-oyovoyo.vercel.app/api/top-langs/?username=jskyzero&layout=compact&langs_count=10&theme=dracula)](https://github-readme-stats.vercel.app/api/top-langs/?username=jskyzero&layout=compact&langs_count=10)
+[![Top Langs](https://github-readme-stats-oyovoyo.vercel.app/api/top-langs/?username=jskyzero&layout=compact&theme=dracula&langs_count=10)](https://github-readme-stats.vercel.app/api/top-langs/?username=jskyzero&layout=compact&langs_count=10&theme=dracula)
 
 
 
